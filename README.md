@@ -33,3 +33,14 @@ https://cdn.jsdelivr.net/gh/downey0115/CDN/
   https://cdn.jsdelivr.net/gh/jquery/jquery/
 ```
 
+### 目录
+
+规范的对文件进行分类，避免修改路径，保证链接的永久性。
+
+```directory
+- blog 博客使用的文件
+  - configuration 配置文件
+  - posts 博文插图
+  - top 头图或背景图
+```
+
