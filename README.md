@@ -37,7 +37,7 @@ https://cdn.jsdelivr.net/gh/downey0115/CDN/
 
 规范的对文件进行分类，避免修改路径，保证链接的永久性。
 
-```directory
+```bat
 - blog 博客使用的文件
   - configuration 配置文件
   - posts 博文插图
